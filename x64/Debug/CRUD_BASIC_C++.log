@@ -1,0 +1,7 @@
+﻿  CRUD.cpp
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(77,9): error C2360: initialization of 'encontrado' is skipped by 'case' label
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(59,18): message : see declaration of 'encontrado'
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(88,9): error C2360: initialization of 'encontrado' is skipped by 'case' label
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(59,18): message : see declaration of 'encontrado'
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(91,9): error C2361: initialization of 'encontrado' is skipped by 'default' label
+C:\Users\erick\OneDrive\Desktop\C#\CRUD_BASIC_C++\CRUD.h(59,18): message : see declaration of 'encontrado'
